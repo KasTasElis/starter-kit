@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier:format": "npx prettier --write .",
     "prettier:check": "npx prettier --check .",
-    "eslint:check": "npx eslint .",
-    "eslint:fix": "npx eslint . --fix"
+    "eslint:check": "npx eslint ."
   },
   "author": "",
   "license": "ISC",
