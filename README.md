@@ -1,3 +1,5 @@
+![starter kit](./img/img.png)
+
 ## Project Starter Template
 
 Save time by using this pre-made starter template for your new projects. Ideal for beginner learning, just enough to get you going fast.
