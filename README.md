@@ -35,9 +35,11 @@ This starter projects comes with formatOnSave and other usefull settings pre-con
 
 In case something does not work, [here is the manual setup guide](https://github.com/prettier/prettier-vscode)
 
-### How to start / develop
+### How to start / develop :nerd_face:
 
-1. Click watch SASS button (you installed SASS Compiler plugin)
-2. Right-click index.html file - select "Open with Live Server" option. (You installed Live Server extension)
+1. Fork this repository.
+2. Click watch SASS button (you installed SASS Compiler plugin)
+3. Right-click index.html file - select "Open with Live Server" option. (You installed Live Server extension)
+4. Write code! :smiling_imp:
 
-Don't forget to say thanksssss.
+# Happy hacking & don't forget to say thanksssss! :raising_hand:
