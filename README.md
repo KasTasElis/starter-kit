@@ -20,4 +20,8 @@ You should use [VS Code](https://code.visualstudio.com) as your code editor.
 2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 3. [SASS Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
 
+### :cop: You MUST configure your VS Code settings to use 'formatOnSave'!!!
+
+[Here's a guide on how you do that](https://github.com/prettier/prettier-vscode)
+
 Don't forget to say thanksssss. :spock-hand:
