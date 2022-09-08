@@ -19,9 +19,15 @@ You should use [VS Code](https://code.visualstudio.com) as your code editor.
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 2. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 3. [SASS Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
+4. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ### :cop: You MUST configure your VS Code settings to use 'formatOnSave'!!!
 
 [Here's a guide on how you do that](https://github.com/prettier/prettier-vscode)
 
-Don't forget to say thanksssss. :spock-hand:
+### How to start / develop
+
+1. Click watch SASS button (you installed SASS Compiler plugin)
+2. Right-click index.html file - select "Open with Live Server" option. (You installed Live Server extension)
+
+Don't forget to say thanksssss.
