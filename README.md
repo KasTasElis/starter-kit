@@ -37,9 +37,12 @@ In case something does not work, [here is the manual setup guide](https://github
 
 ### How to start / develop :nerd_face:
 
-1. Fork this repository.
-2. Click watch SASS button (you installed SASS Compiler plugin)
-3. Right-click index.html file - select "Open with Live Server" option. (You installed Live Server extension)
-4. Write code! :smiling_imp:
+1. Fork this repository on github.
+2. Clone it to your machine.
+3. In terminal, run 'npm install'.
+   _Don't have npm installed?_ [Here's a guide to install Node / NVM](https://github.com/nvm-sh/nvm) & [Install NPM guide](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+4. Click watch SASS button (you installed SASS Compiler plugin)
+5. Right-click index.html file - select "Open with Live Server" option. (You installed Live Server extension)
+6. Write code! :smiling_imp:
 
 # Happy hacking & don't forget to say thanksssss! :raising_hand:
